@@ -1,0 +1,56 @@
+export default [
+    {
+        id:'1',
+        paybill_name:'Zuku',
+        image:require('./assets/images/zuku-logo.jpg'),
+        paybill_no:'123456'
+    },
+    {
+        id:'2',
+        paybill_name:'Coop-Bank',
+        image:require('./assets/images/coop-bank-logo.jpg'),
+        paybill_no:'123456'
+    },
+    {
+        id:'3',
+        paybill_name:'Equity Bank',
+        image:require('./assets/images/equity-logo.png'),
+        paybill_no:'123456'
+    },
+    {
+        id:'4',
+        paybill_name:'KPLC',
+        image:require('./assets/images/kplc-logo.png'),
+        paybill_no:'123456'
+    },
+    {
+        id:'5',
+        paybill_name:'NCBA',
+        image:require('./assets/images/ncba-logo.jpg'),
+        paybill_no:'123456'
+    },
+    {
+        id:'6',
+        paybill_name:'NHIF',
+        image:require('./assets/images/NHIF-logo.jpg'),
+        paybill_no:'123456'
+    },
+    {
+        id:'7',
+        paybill_name:'Absa Bank',
+        image:require('./assets/images/absa_logo1.png'),
+        paybill_no:'123456'
+    },
+    {
+        id:'8',
+        paybill_name:'Family Bank',
+        image:require('./assets/images/family-logo.jpeg'),
+        paybill_no:'123456'
+    },
+    {
+        id:'9',
+        paybill_name:'Startimes',
+        image:require('./assets/images/startimes-logo.png'),
+        paybill_no:'123456'
+    },
+]
